@@ -1,5 +1,5 @@
 "use client";
-import LogoSVG from "@/assets/LogoSVG";
+import LogoSVG from "../assets/LogoSVG";
 import dynamic from "next/dynamic";
 import Link from "next/link";
 import React, { useState, useCallback } from "react";

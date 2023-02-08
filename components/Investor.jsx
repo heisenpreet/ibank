@@ -1,11 +1,11 @@
 import React from "react";
 import Image from "next/image";
 import Heading from "./Heading";
-import first from "@/assets/image47.png";
-import second from "@/assets/image45.png";
-import third from "@/assets/image46.png";
-import ornament51 from "@/assets/Ornament51.svg";
-import ornament52 from "@/assets/Ornament52.svg";
+import first from "../assets/image47.png";
+import second from "../assets/image45.png";
+import third from "../assets/image46.png";
+import ornament51 from "../assets/Ornament51.svg";
+import ornament52 from "../assets/Ornament52.svg";
 const investor = [
   {
     id: 1,

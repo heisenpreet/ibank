@@ -3,7 +3,7 @@ import Styles from "./hero.module.css";
 import Image from "next/image";
 import Navbar from "./Navbar";
 import decore from "../assets/Decore.svg";
-import heroImg from "@/assets/heroImg.png";
+import heroImg from "../assets/heroImg.png";
 import Link from "next/link";
 const Hero = () => {
   return (

@@ -1,11 +1,11 @@
 import React from "react";
 import Image from "next/image";
 import Heading from "./Heading";
-import first from "@/assets/image4.png";
-import second from "@/assets/image5.png";
-import third from "@/assets/image6.png";
-import plus from "@/assets/plus.svg";
-import triangle from "@/assets/triangle.svg";
+import first from "../assets/image4.png";
+import second from "../assets/image5.png";
+import third from "../assets/image6.png";
+import plus from "../assets/plus.svg";
+import triangle from "../assets/triangle.svg";
 const intermediares = [
   {
     id: 1,

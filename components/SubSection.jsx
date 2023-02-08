@@ -1,6 +1,6 @@
 import React from "react";
-import Ornament11 from "@/assets/Ornament11.svg";
-import Ornament74 from "@/assets/Ornament74.svg";
+import Ornament11 from "../assets/Ornament11.svg";
+import Ornament74 from "../assets/Ornament74.svg";
 import Image from "next/image";
 const SubSection = () => {
   return (

@@ -1,10 +1,10 @@
-import AmazonSVG from "@/assets/Amazon";
-import EbaySVG from "@/assets/Ebay";
-import KlarnaSVG from "@/assets/Klarna";
-import LogoSVG from "@/assets/LogoSVG";
-import MasterCardSVG from "@/assets/MasterCard";
-import NetellerSVG from "@/assets/Neteller";
-import StripeSVG from "@/assets/Stripe";
+import AmazonSVG from "../assets/Amazon";
+import EbaySVG from "../assets/Ebay";
+import KlarnaSVG from "../assets/Klarna";
+import LogoSVG from "../assets/LogoSVG";
+import MasterCardSVG from "../assets/MasterCard";
+import NetellerSVG from "../assets/Neteller";
+import StripeSVG from "../assets/Stripe";
 import React from "react";
 
 const Footer = () => {
