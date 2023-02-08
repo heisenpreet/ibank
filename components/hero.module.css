@@ -1,0 +1,6 @@
+.ellipse{
+    background-image: url('../assets/Ellipse.svg');
+    background-size: contain;
+    background-position: top left;
+    background-repeat: no-repeat;
+}
