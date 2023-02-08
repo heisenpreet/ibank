@@ -1,6 +1,6 @@
 import Borrower from "../components/Borrower";
 import Footer from "../components/Footer";
-import Hero from "../components/hero";
+import Hero from "../components/Hero";
 import Intermediares from "../components/Intermediares";
 import Investor from "../components/Investor";
 import SubSection from "../components/SubSection";
